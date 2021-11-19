@@ -8,7 +8,7 @@ This script was modification by referring https://seclists.org/nmap-dev/2010/q3/
 INSTALLATION
 ------------
 
-$ git clone https://github.com/ahzhen988/http-xst.nse.git
+$ git clone https://github.com/zn9988/http-xst.nse.git
 $ cd http-xst.nse/
 $ sudo cp http-xst.nse /usr/share/nmap/scripts/
 $ nmap --script-updatedb
